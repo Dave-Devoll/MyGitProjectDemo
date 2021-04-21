@@ -1,3 +1,5 @@
-//merge conflict fixed
-Here's the required code
-amazing code
+finally adding the code here
+
+//code from Dev2
+awesome code for file
+
